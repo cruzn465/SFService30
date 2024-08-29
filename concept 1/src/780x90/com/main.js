@@ -74,12 +74,12 @@ function animate(){
     .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
     .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
     // logo copy slides in logo_c_2x
-    .from(logo_c_2x, 0.7, {x:-10, opacity:0,ease:Expo.easeIn},"-=.3")
+    .from(logo_c_2x, 0.6, {x:-10, opacity:0,ease:Expo.easeIn},"-=.4")
 
 
     // copy animations
     .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn},"bg-=.3")
-    .from(c_2x, 1.1, {x:-50, opacity:0,ease:Expo.easeIn},"bg+=.1")
+    .from(c_2x, 1, {x:-50, opacity:0,ease:Expo.easeIn},"bg+=.1")
     .to([c_2x], .8, {opacity:0,ease:Power2.easeIn},"+=1.3")
 
     // F2
