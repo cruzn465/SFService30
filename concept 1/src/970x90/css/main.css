@@ -20,12 +20,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #bg_2x {
-	left:140px;
-	top:111px;
-	width:160px;
-	height:139px;
+	left:833px;
+	top:2px;
+	width:137px;
+	height:88px;
 	background-image:url(../img/bg_2x.png);
-	background-size:160px 139px;
+	background-size:137px 88px;
 }
 
 .ellipses {
@@ -34,42 +34,42 @@ body { margin:0px 0px; padding:0px; }
 }
 
 .ellipse1 {
-    left: 21px;
-    top: 10px;
+    left: 37px;
+    top: 25px;
     width: 12px;
     height: 9px;
 }
 
 .ellipse2 {
-    left: 34px;
-    top: 22px;
+    left: 54px;
+    top: 39px;
     width: 11px;
     height: 8px;
 }
 
 .ellipse3 {
-    left: 16px;
-    top: 30px;
+    left: 28px;
+    top: 46px;
     width: 15px;
     height: 11px;
 }
 
 #ell_endAnim_2x {
-	left:21px;
-	top:20px;
-	width:26px;
-	height:17px;
+	left:33px;
+	top:32px;
+	width:34px;
+	height:22px;
 	background-image:url(../img/ell_endAnim_2x.png);
-	background-size:26px 17px;
+	background-size:34px 22px;
 }
 
 #logo_c_2x {
-	left:48px;
-	top:20px;
-	width:93px;
-	height:17px;
+	left:69px;
+	top:32px;
+	width:122px;
+	height:22px;
 	background-image:url(../img/logo_c_2x.png);
-	background-size:93px 17px;
+	background-size:122px 22px;
 }
 
 #c1_2x {
@@ -82,12 +82,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c2_2x {
-	left:21px;
-	top:62px;
-	width:182px;
-	height:40px;
+	left:225px;
+	top:38px;
+	width:341px;
+	height:21px;
 	background-image:url(../img/c2_2x.png);
-	background-size:182px 40px;
+	background-size:341px 21px;
 }
 
 #c3_2x {
@@ -100,12 +100,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c4_2x {
-	left:19px;
-	top:62px;
-	width:178px;
-	height:37px;
+	left:225px;
+	top:37px;
+	width:404px;
+	height:21px;
 	background-image:url(../img/c4_2x.png);
-	background-size:178px 37px;
+	background-size:404px 21px;
 }
 
 #c5_2x {
@@ -118,17 +118,17 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c_2x {
-	left:20px;
-	top:62px;
-	width:112px;
-	height:40px;
+	left:226px;
+	top:38px;
+	width:251px;
+	height:21px;
 	background-image:url(../img/c_2x.png);
-	background-size:112px 40px;
+	background-size:251px 21px;
 }
 
 #cta_2x {
-	left:20px;
-	top:123px;
+	left:684px;
+	top:30px;
 	width:96px;
 	height:26px;
 	background-image:url(../img/cta_2x.png);
@@ -136,10 +136,10 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #new_bg_2x {
-	left:140px;
-	top:111px;
-	width:160px;
-	height:139px;
+	left:833px;
+	top:2px;
+	width:137px;
+	height:88px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:160px 139px;
+	background-size:137px 88px;
 }

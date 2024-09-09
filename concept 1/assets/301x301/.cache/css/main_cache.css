@@ -1,0 +1,28 @@
+
+
+#bg_2x {
+	left:120px;
+	top:133px;
+	width:181px;
+	height:167px;
+	background-image:url(../img/bg_2x.png);
+	background-size:181px 167px;
+}
+
+#c4_2x {
+	left:20px;
+	top:63px;
+	width:180px;
+	height:37px;
+	background-image:url(../img/c4_2x.png);
+	background-size:180px 37px;
+}
+
+#new_bg_2x {
+	left:120px;
+	top:135px;
+	width:181px;
+	height:165px;
+	background-image:url(../img/new_bg_2x.png);
+	background-size:181px 165px;
+}

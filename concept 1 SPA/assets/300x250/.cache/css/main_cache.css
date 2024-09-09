@@ -1,37 +1,19 @@
 
 
-#c2_2x {
-	left:20px;
-	top:62px;
-	width:210px;
-	height:37px;
-	background-image:url(../img/c2_2x.png);
-	background-size:210px 37px;
+#bg_2x {
+	left:140px;
+	top:111px;
+	width:160px;
+	height:139px;
+	background-image:url(../img/bg_2x.png);
+	background-size:160px 139px;
 }
 
-#c4_2x {
-	left:20px;
-	top:62px;
-	width:188px;
-	height:37px;
-	background-image:url(../img/c4_2x.png);
-	background-size:188px 37px;
-}
-
-#c_2x {
-	left:20px;
-	top:62px;
-	width:189px;
-	height:19px;
-	background-image:url(../img/c_2x.png);
-	background-size:189px 19px;
-}
-
-#cta_2x {
-	left:20px;
-	top:123px;
-	width:96px;
-	height:26px;
-	background-image:url(../img/cta_2x.png);
-	background-size:96px 26px;
+#new_bg_2x {
+	left:140px;
+	top:111px;
+	width:160px;
+	height:139px;
+	background-image:url(../img/new_bg_2x.png);
+	background-size:160px 139px;
 }
