@@ -63,9 +63,9 @@ function animate(){
 
     // F1 ELLIPSE ANIM:
     // ellipse grow
-    .to(ellipse1, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow+=.5")
-    .to(ellipse3, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow+=.6")
-    .to(ellipse2, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow+=.7")
+    .to(ellipse1, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow")
+    .to(ellipse3, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow+=.1")
+    .to(ellipse2, .5, {scale:.5,opacity:1, ease:Expo.easeOut},"ell_grow+=.2")
 
     // connect ellipse
     .to(ellipse1, 0.5, {x:7, y:8, scale:.69, ease:Expo.easeIn},"conn-=.2")
