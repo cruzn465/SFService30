@@ -23,9 +23,9 @@ body { margin:0px 0px; padding:0px; }
 	left:19px;
 	top:283px;
 	width:140px;
-	height:200px;
+	height:201px;
 	background-image:url(../img/bg_2x.png);
-	background-size:140px 200px;
+	background-size:140px 201px;
 }
 .ellipses {
     border-radius: 50%;
@@ -135,8 +135,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #new_bg_2x {
-	left:20px;
-	top:284px;
+	left:19px;
+	top:283px;
 	width:140px;
 	height:200px;
 	background-image:url(../img/new_bg_2x.png);

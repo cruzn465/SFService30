@@ -56,7 +56,7 @@ body { margin:0px 0px; padding:0px; }
 
 #ell_endAnim_2x {
 	left:33px;
-	top:32px;
+	top:34px;
 	width:34px;
 	height:22px;
 	background-image:url(../img/ell_endAnim_2x.png);
@@ -65,7 +65,7 @@ body { margin:0px 0px; padding:0px; }
 
 #logo_c_2x {
 	left:69px;
-	top:32px;
+	top:34px;
 	width:122px;
 	height:22px;
 	background-image:url(../img/logo_c_2x.png);
@@ -102,10 +102,10 @@ body { margin:0px 0px; padding:0px; }
 #c4_2x {
 	left:224px;
 	top:37px;
-	width:418px;
+	width:419px;
 	height:20px;
 	background-image:url(../img/c4_2x.png);
-	background-size:418px 20px;
+	background-size:419px 20px;
 }
 
 #c5_2x {

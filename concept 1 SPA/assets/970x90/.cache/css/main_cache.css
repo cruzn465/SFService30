@@ -1,1 +1,19 @@
 
+
+#ell_endAnim_2x {
+	left:33px;
+	top:34px;
+	width:34px;
+	height:22px;
+	background-image:url(../img/ell_endAnim_2x.png);
+	background-size:34px 22px;
+}
+
+#logo_c_2x {
+	left:69px;
+	top:34px;
+	width:122px;
+	height:22px;
+	background-image:url(../img/logo_c_2x.png);
+	background-size:122px 22px;
+}

@@ -100,11 +100,11 @@ body { margin:0px 0px; padding:0px; }
 
 #c4_2x {
 	left:11px;
-	top:53px;
-	width:116px;
-	height:96px;
+	top:52px;
+	width:117px;
+	height:97px;
 	background-image:url(../img/c4_2x.png);
-	background-size:116px 96px;
+	background-size:117px 97px;
 }
 
 #c5_2x {
@@ -135,8 +135,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #new_bg_2x {
-	left:20px;
-	top:284px;
+	left:19px;
+	top:283px;
 	width:140px;
 	height:200px;
 	background-image:url(../img/new_bg_2x.png);

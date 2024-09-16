@@ -20,12 +20,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #bg_2x {
-	left:140px;
+	left:139px;
 	top:111px;
-	width:160px;
-	height:139px;
+	width:161px;
+	height:138px;
 	background-image:url(../img/bg_2x.png);
-	background-size:160px 139px;
+	background-size:161px 138px;
 }
 
 .ellipses {
@@ -139,7 +139,7 @@ body { margin:0px 0px; padding:0px; }
 	left:140px;
 	top:111px;
 	width:160px;
-	height:139px;
+	height:138px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:160px 139px;
+	background-size:160px 138px;
 }

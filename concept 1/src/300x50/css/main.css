@@ -40,8 +40,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 .ellipse2 {
-    left: 36px;
-    top: 25px;
+    left: 33px;
+    top: 16px;
     width: 28px;
     height: 20px;
 }
@@ -82,8 +82,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c2_2x {
-	left:111px;
-	top:21px;
+	left:109px;
+	top:19px;
 	width:139px;
 	height:13px;
 	background-image:url(../img/c2_2x.png);
@@ -100,12 +100,12 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c4_2x {
-	left:113px;
-	top:14px;
-	width:129px;
-	height:25px;
+	left:110px;
+	top:12px;
+	width:128px;
+	height:26px;
 	background-image:url(../img/c4_2x.png);
-	background-size:129px 25px;
+	background-size:128px 26px;
 }
 
 #c5_2x {
@@ -118,8 +118,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c_2x {
-	left:141px;
-	top:20px;
+	left:138px;
+	top:19px;
 	width:78px;
 	height:11px;
 	background-image:url(../img/c_2x.png);
