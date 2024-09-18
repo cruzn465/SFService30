@@ -136,10 +136,10 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #new_bg_2x {
-	left:64px;
+	left:65px;
 	top:278px;
 	width:235px;
-	height:264px;
+	height:258px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:235px 264px;
+	background-size:235px 258px;
 }

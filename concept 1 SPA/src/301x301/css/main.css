@@ -101,7 +101,7 @@ body { margin:0px 0px; padding:0px; }
 
 #c4_2x {
 	left:19px;
-	top:57px;
+	top:63px;
 	width:191px;
 	height:37px;
 	background-image:url(../img/c4_2x.png);
@@ -128,7 +128,7 @@ body { margin:0px 0px; padding:0px; }
 
 #cta_2x {
 	left:20px;
-	top:126px;
+	top:132px;
 	width:96px;
 	height:26px;
 	background-image:url(../img/cta_2x.png);
@@ -137,11 +137,11 @@ body { margin:0px 0px; padding:0px; }
 
 #new_bg_2x {
 	left:120px;
-	top:135px;
+	top:133px;
 	width:181px;
-	height:165px;
+	height:167px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:181px 165px;
+	background-size:181px 167px;
 }
 
 #test {

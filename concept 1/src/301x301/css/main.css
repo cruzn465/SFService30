@@ -82,8 +82,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c2_2x {
-	left:21px;
-	top:62px;
+	left:22px;
+	top:63px;
 	width:182px;
 	height:40px;
 	background-image:url(../img/c2_2x.png);
@@ -118,8 +118,8 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c_2x {
-	left:20px;
-	top:62px;
+	left:21px;
+	top:63px;
 	width:112px;
 	height:40px;
 	background-image:url(../img/c_2x.png);
@@ -137,11 +137,11 @@ body { margin:0px 0px; padding:0px; }
 
 #new_bg_2x {
 	left:120px;
-	top:135px;
+	top:133px;
 	width:181px;
-	height:165px;
+	height:167px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:181px 165px;
+	background-size:181px 167px;
 }
 
 #test {

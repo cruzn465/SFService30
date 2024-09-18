@@ -136,9 +136,9 @@ body { margin:0px 0px; padding:0px; }
 
 #new_bg_2x {
 	left:649px;
-	top:0px;
+	top:1px;
 	width:131px;
-	height:90px;
+	height:89px;
 	background-image:url(../img/new_bg_2x.png);
-	background-size:131px 90px;
+	background-size:131px 89px;
 }
