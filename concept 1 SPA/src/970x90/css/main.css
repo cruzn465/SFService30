@@ -34,22 +34,22 @@ body { margin:0px 0px; padding:0px; }
 }
 
 .ellipse1 {
-    left: 38px;
-    top: 22px;
+    left: 37px;
+    top: 25px;
     width: 12px;
     height: 9px;
 }
 
 .ellipse2 {
-    left: 64px;
-    top: 42px;
+    left: 54px;
+    top: 39px;
     width: 11px;
     height: 8px;
 }
 
 .ellipse3 {
     left: 28px;
-    top: 50px;
+    top: 46px;
     width: 15px;
     height: 11px;
 }
@@ -72,15 +72,6 @@ body { margin:0px 0px; padding:0px; }
 	background-size:122px 22px;
 }
 
-#c1_2x {
-	left:20px;
-	top:85px;
-	width:112px;
-	height:18px;
-	background-image:url(../img/c1_2x.png);
-	background-size:112px 18px;
-}
-
 #c2_2x {
 	left:225px;
 	top:38px;
@@ -90,15 +81,6 @@ body { margin:0px 0px; padding:0px; }
 	background-size:344px 20px;
 }
 
-#c3_2x {
-	left:21px;
-	top:79px;
-	width:182px;
-	height:23px;
-	background-image:url(../img/c3_2x.png);
-	background-size:182px 23px;
-}
-
 #c4_2x {
 	left:224px;
 	top:37px;
@@ -106,15 +88,6 @@ body { margin:0px 0px; padding:0px; }
 	height:20px;
 	background-image:url(../img/c4_2x.png);
 	background-size:419px 20px;
-}
-
-#c5_2x {
-	left:19px;
-	top:78px;
-	width:173px;
-	height:15px;
-	background-image:url(../img/c5_2x.png);
-	background-size:173px 15px;
 }
 
 #c_2x {

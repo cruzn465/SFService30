@@ -78,8 +78,10 @@ function animate(){
 
 
     // copy animations
-    .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn})
-    .from(c_2x, 1, {x:-50, opacity:0,ease:Expo.easeIn},"+=.15")
+    // .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn})
+    // .from(c_2x, 1, {x:-50, opacity:0,ease:Expo.easeIn},"+=.15")
+    .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn},"bg-=.3")
+    .from(c_2x, 1, {x:-50, opacity:0,ease:Expo.easeIn},"bg+=.1")
     .to([c_2x], .8, {opacity:0,ease:Power2.easeIn},"+=1.3")
 
     // F2

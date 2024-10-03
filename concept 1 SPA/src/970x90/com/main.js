@@ -68,9 +68,9 @@ function animate(){
     .to(ellipse2, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow+=.2")
 
     // connect ellipse
-    .to(ellipse1, 0.5, {x:6, y:13, scale:1.3, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse2, 0.5, {x:-12, y:4, scale:1.4, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse3, 0.5, {x:6, y:-6, scale:1, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse1, 0.5, {x:6, y:10, scale:1.3, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse2, 0.5, {x:-2, y:7, scale:1.4, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse3, 0.5, {x:6, y:-2, scale:1, ease:Expo.easeIn},"conn-=.2")
     // ellipse disappears and standiong logo appears
     .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
     .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
