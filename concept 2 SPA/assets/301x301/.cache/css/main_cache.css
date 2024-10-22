@@ -1,0 +1,55 @@
+
+
+#bg_2x {
+	left:120px;
+	top:133px;
+	width:181px;
+	height:168px;
+	background-image:url(../img/bg_2x.png);
+	background-size:181px 168px;
+}
+
+#c2_2x {
+	left:21px;
+	top:63px;
+	width:215px;
+	height:41px;
+	background-image:url(../img/c2_2x.png);
+	background-size:215px 41px;
+}
+
+#c4_2x {
+	left:19px;
+	top:57px;
+	width:178px;
+	height:37px;
+	background-image:url(../img/c4_2x.png);
+	background-size:178px 37px;
+}
+
+#c_2x {
+	left:21px;
+	top:63px;
+	width:87px;
+	height:37px;
+	background-image:url(../img/c_2x.png);
+	background-size:87px 37px;
+}
+
+#ell_endAnim_2x {
+	left:20px;
+	top:20px;
+	width:31px;
+	height:20px;
+	background-image:url(../img/ell_endAnim_2x.png);
+	background-size:31px 20px;
+}
+
+#logo_c_2x {
+	left:53px;
+	top:20px;
+	width:112px;
+	height:20px;
+	background-image:url(../img/logo_c_2x.png);
+	background-size:112px 20px;
+}
