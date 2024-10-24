@@ -74,12 +74,8 @@ function animate(){
     // ellipse disappears and standiong logo appears
     .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
     .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
-    // logo copy slides in logo_c_2x
-    // .from(logo_c_2x, 0.6, {x:-10, opacity:0,ease:Expo.easeIn},"-=.4")
-
-
+    
     // copy animations
-    .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn},"bg-=.3")
     .from(c_2x, 1, {x:-50, opacity:0,ease:Expo.easeIn},"bg+=.1")
     .to([c_2x], .8, {opacity:0,ease:Power2.easeIn},"+=1.3")
 
@@ -88,10 +84,7 @@ function animate(){
     .to([c2_2x], .8, {opacity:0,ease:Expo.easeIn},"+=1.7")
 
     // EF
-    .from(new_bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
-    .to(bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
     .from(c4_2x, 1, {x:-45, opacity:0,ease:Expo.easeIn})
-    .from(cta_2x, .5, {opacity:0,ease:Power1.easeIn},"+=.1")
 
     
     //.call(returnTimer)

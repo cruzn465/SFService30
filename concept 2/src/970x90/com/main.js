@@ -68,9 +68,9 @@ function animate(){
     .to(ellipse2, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow+=.2")
 
     // connect ellipse
-    .to(ellipse1, 0.5, {x:8, y:10, scale:1.3, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse2, 0.5, {x:-1, y:6, scale:1.3, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse3, 0.5, {x:7, y:-2, scale:1, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse1, 0.5, {x:8, y:8, scale:1.3, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse2, 0.5, {x:-1, y:4, scale:1.3, ease:Expo.easeIn},"conn-=.2")
+    .to(ellipse3, 0.5, {x:7, y:-4, scale:1, ease:Expo.easeIn},"conn-=.2")
     // ellipse disappears and standiong logo appears
     .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
     .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
@@ -88,8 +88,6 @@ function animate(){
     .to([c2_2x], .8, {opacity:0,ease:Expo.easeIn},"+=1.7")
 
     // EF
-    .from(new_bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
-    .to(bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
     .from(c4_2x, 1, {x:-45, opacity:0,ease:Expo.easeIn})
     .from(cta_2x, .5, {opacity:0,ease:Power1.easeIn},"+=.1")
 

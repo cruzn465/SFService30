@@ -21,11 +21,11 @@ body { margin:0px 0px; padding:0px; }
 
 #bg_2x {
 	left:191px;
-	top:7px;
+	top:11px;
 	width:109px;
-	height:92px;
+	height:89px;
 	background-image:url(../img/bg_2x.png);
-	background-size:109px 92px;
+	background-size:109px 89px;
 }
 .ellipses {
     border-radius: 50%;
@@ -79,19 +79,19 @@ body { margin:0px 0px; padding:0px; }
 #logo_c_2x {
 	left:25px;
 	top:11px;
-	width:48px;
+	width:49px;
 	height:9px;
 	background-image:url(../img/logo_c_2x.png);
-	background-size:48px 9px;
+	background-size:49px 9px;
 }
 
 #c2_2x {
 	left:11px;
 	top:31px;
-	width:109px;
+	width:129px;
 	height:23px;
 	background-image:url(../img/c2_2x.png);
-	background-size:109px 23px;
+	background-size:129px 23px;
 }
 
 #c4_2x {
@@ -103,14 +103,13 @@ body { margin:0px 0px; padding:0px; }
 	background-size:110px 21px;
 }
 
-
 #c_2x {
 	left:11px;
 	top:31px;
-	width:68px;
-	height:24px;
+	width:53px;
+	height:21px;
 	background-image:url(../img/c_2x.png);
-	background-size:68px 24px;
+	background-size:53px 21px;
 }
 
 #cta_2x {
@@ -120,13 +119,4 @@ body { margin:0px 0px; padding:0px; }
 	height:15px;
 	background-image:url(../img/cta_2x.png);
 	background-size:56px 15px;
-}
-
-#new_bg_2x {
-	left:191px;
-	top:7px;
-	width:109px;
-	height:92px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:109px 92px;
 }

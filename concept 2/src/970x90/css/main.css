@@ -56,7 +56,7 @@ body { margin:0px 0px; padding:0px; }
 
 #ell_endAnim_2x {
 	left:34px;
-	top:34px;
+	top:32px;
 	width:34px;
 	height:22px;
 	background-image:url(../img/ell_endAnim_2x.png);
@@ -65,39 +65,38 @@ body { margin:0px 0px; padding:0px; }
 
 #logo_c_2x {
 	left:70px;
-	top:34px;
-	width:122px;
+	top:33px;
+	width:123px;
 	height:22px;
 	background-image:url(../img/logo_c_2x.png);
-	background-size:122px 22px;
+	background-size:123px 22px;
 }
 
 #c2_2x {
-	left:225px;
+	left:224px;
 	top:38px;
-	width:341px;
-	height:21px;
+	width:459px;
+	height:20px;
 	background-image:url(../img/c2_2x.png);
-	background-size:341px 21px;
+	background-size:459px 20px;
 }
-
 
 #c4_2x {
 	left:225px;
 	top:37px;
-	width:405px;
+	width:403px;
 	height:21px;
 	background-image:url(../img/c4_2x.png);
-	background-size:405px 21px;
+	background-size:403px 21px;
 }
 
 #c_2x {
 	left:226px;
 	top:38px;
-	width:251px;
-	height:21px;
+	width:166px;
+	height:16px;
 	background-image:url(../img/c_2x.png);
-	background-size:251px 21px;
+	background-size:166px 16px;
 }
 
 #cta_2x {
@@ -107,13 +106,4 @@ body { margin:0px 0px; padding:0px; }
 	height:26px;
 	background-image:url(../img/cta_2x.png);
 	background-size:96px 26px;
-}
-
-#new_bg_2x {
-	left:833px;
-	top:2px;
-	width:137px;
-	height:88px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:137px 88px;
 }

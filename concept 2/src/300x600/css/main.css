@@ -23,9 +23,9 @@ body { margin:0px 0px; padding:0px; }
 	left:65px;
 	top:278px;
 	width:235px;
-	height:258px;
+	height:256px;
 	background-image:url(../img/bg_2x.png);
-	background-size:235px 258px;
+	background-size:235px 256px;
 }
 
 .ellipses {
@@ -73,30 +73,30 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #c2_2x {
-	left:26px;
-	top:94px;
-	width:170px;
-	height:85px;
+	left:25px;
+	top:93px;
+	width:169px;
+	height:111px;
 	background-image:url(../img/c2_2x.png);
-	background-size:170px 85px;
+	background-size:169px 111px;
 }
 
 #c4_2x {
 	left:25px;
 	top:94px;
-	width:249px;
-	height:50px;
+	width:245px;
+	height:49px;
 	background-image:url(../img/c4_2x.png);
-	background-size:249px 50px;
+	background-size:245px 49px;
 }
 
 #c_2x {
 	left:25px;
 	top:93px;
-	width:157px;
-	height:56px;
+	width:122px;
+	height:51px;
 	background-image:url(../img/c_2x.png);
-	background-size:157px 56px;
+	background-size:122px 51px;
 }
 
 #cta_2x {
@@ -106,13 +106,4 @@ body { margin:0px 0px; padding:0px; }
 	height:26px;
 	background-image:url(../img/cta_2x.png);
 	background-size:96px 26px;
-}
-
-#new_bg_2x {
-	left:65px;
-	top:278px;
-	width:235px;
-	height:258px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:235px 258px;
 }

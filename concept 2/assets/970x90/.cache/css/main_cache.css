@@ -1,1 +1,64 @@
 
+
+#bg_2x {
+	left:833px;
+	top:2px;
+	width:137px;
+	height:88px;
+	background-image:url(../img/bg_2x.png);
+	background-size:137px 88px;
+}
+
+#c2_2x {
+	left:224px;
+	top:38px;
+	width:459px;
+	height:20px;
+	background-image:url(../img/c2_2x.png);
+	background-size:459px 20px;
+}
+
+#c4_2x {
+	left:225px;
+	top:37px;
+	width:403px;
+	height:21px;
+	background-image:url(../img/c4_2x.png);
+	background-size:403px 21px;
+}
+
+#c_2x {
+	left:226px;
+	top:38px;
+	width:166px;
+	height:16px;
+	background-image:url(../img/c_2x.png);
+	background-size:166px 16px;
+}
+
+#cta_2x {
+	left:684px;
+	top:30px;
+	width:96px;
+	height:26px;
+	background-image:url(../img/cta_2x.png);
+	background-size:96px 26px;
+}
+
+#ell_endAnim_2x {
+	left:34px;
+	top:32px;
+	width:34px;
+	height:22px;
+	background-image:url(../img/ell_endAnim_2x.png);
+	background-size:34px 22px;
+}
+
+#logo_c_2x {
+	left:70px;
+	top:33px;
+	width:123px;
+	height:22px;
+	background-image:url(../img/logo_c_2x.png);
+	background-size:123px 22px;
+}
