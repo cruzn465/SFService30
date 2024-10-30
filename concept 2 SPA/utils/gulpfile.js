@@ -49,6 +49,17 @@ var pngmin = require('gulp-pngmin');
 //colored output
 var colors = require('colors')
 
+// var purgecss = require('gulp-purgecss')
+
+// gulp.task('purgecss', () => {
+//     return gulp.src('src/**/*.css')
+//         .pipe(purgecss({
+//             content: ['src/**/*.html']
+//         }))
+//         .pipe(gulp.dest('build/css'))
+// })
+
+
 // Iterate through each folder within assets
 var fileTypes = {
     jpg: 'jpeg',
