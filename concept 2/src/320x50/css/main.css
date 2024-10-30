@@ -26,31 +26,31 @@ body { margin:0px 0px; padding:0px; }
 .ellipse1 {
     left: 11px;
     top: -1px;
-    width: 32px;
-    height: 24px;
+    width: 31px;
+    height: 22px;
 }
 
 .ellipse2 {
     left: 33px;
     top: 16px;
-    width: 28px;
-    height: 20px;
+    width: 27px;
+    height: 18px;
 }
 
 .ellipse3 {
     left: 0px;
     top: 24px;
-    width: 35px;
-    height: 25px;
+    width: 34px;
+    height: 24px;
 }
 
 #ell_endAnim_2x {
 	left:11px;
 	top:11px;
-	width:44px;
+	width:48px;
 	height:28px;
 	background-image:url(../img/ell_endAnim_2x.png);
-	background-size:44px 28px;
+	background-size:48px 28px;
 }
 
 #c2_2x {

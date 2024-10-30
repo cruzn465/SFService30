@@ -88,28 +88,28 @@ body { margin:0px 0px; padding:0px; }
 #c2_2x {
 	left:11px;
 	top:31px;
-	width:129px;
+	width:142px;
 	height:23px;
 	background-image:url(../img/c2_2x.png);
-	background-size:129px 23px;
+	background-size:142px 23px;
 }
 
 #c4_2x {
 	left:11px;
 	top:31px;
-	width:110px;
+	width:116px;
 	height:21px;
 	background-image:url(../img/c4_2x.png);
-	background-size:110px 21px;
+	background-size:116px 21px;
 }
 
 #c_2x {
 	left:11px;
 	top:31px;
-	width:53px;
-	height:21px;
+	width:71px;
+	height:11px;
 	background-image:url(../img/c_2x.png);
-	background-size:53px 21px;
+	background-size:71px 11px;
 }
 
 #cta_2x {
@@ -119,13 +119,4 @@ body { margin:0px 0px; padding:0px; }
 	height:15px;
 	background-image:url(../img/cta_2x.png);
 	background-size:56px 15px;
-}
-
-#new_bg_2x {
-	left:191px;
-	top:7px;
-	width:109px;
-	height:92px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:109px 92px;
 }

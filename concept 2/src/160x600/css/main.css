@@ -21,11 +21,11 @@ body { margin:0px 0px; padding:0px; }
 
 #bg_2x {
 	left:20px;
-	top:283px;
-	width:140px;
-	height:203px;
+	top:282px;
+	width:139px;
+	height:206px;
 	background-image:url(../img/bg_2x.png);
-	background-size:140px 203px;
+	background-size:139px 206px;
 }
 .ellipses {
     border-radius: 50%;

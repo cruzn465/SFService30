@@ -66,7 +66,6 @@ function animate(){
     .to(ellipse1, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow")
     .to(ellipse3, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow+=.1")
     .to(ellipse2, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow+=.2")
-
     // connect ellipse
     .to(ellipse1, 0.5, {x:2.5, y:4, scale:1, ease:Expo.easeIn},"conn-=.2")
     .to(ellipse2, 0.5, {x:-1, y:2, scale:1.2, ease:Expo.easeIn},"conn-=.2")
@@ -88,8 +87,6 @@ function animate(){
     .to([c2_2x], .8, {opacity:0,ease:Expo.easeIn},"+=1.7")
 
     // EF
-    .from(new_bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
-    .to(bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
     .from(c4_2x, 1, {x:-45, opacity:0,ease:Expo.easeIn})
     .from(cta_2x, .5, {opacity:0,ease:Power1.easeIn},"+=.1")
 

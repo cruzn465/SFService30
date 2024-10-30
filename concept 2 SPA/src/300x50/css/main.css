@@ -29,66 +29,64 @@ body { margin:0px 0px; padding:0px; }
 }
 .ellipses {
     border-radius: 50%;
-    background-color: white;
+    background-color: rgb(255, 255, 255);
 }
 
 .ellipse1 {
     left: 11px;
     top: -1px;
-    width: 32px;
-    height: 24px;
+    width: 30px;
+    height: 22px;
 }
 
 .ellipse2 {
     left: 33px;
     top: 16px;
-    width: 28px;
-    height: 20px;
+    width: 26px;
+    height: 18px;
 }
 
 .ellipse3 {
     left: 0px;
     top: 24px;
-    width: 35px;
-    height: 25px;
+    width: 34px;
+    height: 24px;
 }
-
 
 #ell_endAnim_2x {
 	left:11px;
 	top:11px;
-	width:49px;
+	width:48px;
 	height:28px;
 	background-image:url(../img/ell_endAnim_2x.png);
-	background-size:49px 28px;
+	background-size:48px 28px;
 }
 
 #c2_2x {
-	left:109px;
-	top:19px;
-	width:139px;
-	height:13px;
+	left:89px;
+	top:11px;
+	width:176px;
+	height:28px;
 	background-image:url(../img/c2_2x.png);
-	background-size:139px 13px;
+	background-size:176px 28px;
 }
 
-
 #c4_2x {
-	left:110px;
+	left:106px;
 	top:12px;
-	width:128px;
+	width:144px;
 	height:26px;
 	background-image:url(../img/c4_2x.png);
-	background-size:128px 26px;
+	background-size:144px 26px;
 }
 
 #c_2x {
-	left:138px;
+	left:137px;
 	top:19px;
-	width:78px;
-	height:11px;
+	width:83px;
+	height:12px;
 	background-image:url(../img/c_2x.png);
-	background-size:78px 11px;
+	background-size:83px 12px;
 }
 
 #cta_2x {

@@ -88,8 +88,6 @@ function animate(){
     .to([c2_2x], .8, {opacity:0,ease:Expo.easeIn},"+=1.7")
 
     // EF
-    .from(new_bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
-    .to(bg_2x, .5, {opacity:0,ease:Power1.easeIn},"efbg")
     .from(c4_2x, 1, {x:-45, opacity:0,ease:Expo.easeIn})
     .from(cta_2x, .5, {opacity:0,ease:Power1.easeIn},"+=.1")
 

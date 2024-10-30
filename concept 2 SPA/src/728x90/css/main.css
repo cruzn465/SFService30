@@ -54,39 +54,39 @@ body { margin:0px 0px; padding:0px; }
 }
 
 #ell_endAnim_2x {
-	left:29px;
+	left:30px;
 	top:26px;
-	width:65px;
+	width:66px;
 	height:38px;
 	background-image:url(../img/ell_endAnim_2x.png);
-	background-size:65px 38px;
+	background-size:66px 38px;
 }
 
 #c2_2x {
-	left:126px;
-	top:35px;
-	width:341px;
-	height:21px;
+	left:125px;
+	top:24px;
+	width:346px;
+	height:42px;
 	background-image:url(../img/c2_2x.png);
-	background-size:341px 21px;
+	background-size:346px 42px;
 }
 
 #c4_2x {
 	left:125px;
-	top:26px;
-	width:200px;
-	height:39px;
+	top:27px;
+	width:212px;
+	height:38px;
 	background-image:url(../img/c4_2x.png);
-	background-size:200px 39px;
+	background-size:212px 38px;
 }
 
 #c_2x {
-	left:126px;
-	top:35px;
-	width:251px;
+	left:125px;
+	top:38px;
+	width:130px;
 	height:20px;
 	background-image:url(../img/c_2x.png);
-	background-size:251px 20px;
+	background-size:130px 20px;
 }
 
 #cta_2x {
@@ -96,13 +96,4 @@ body { margin:0px 0px; padding:0px; }
 	height:26px;
 	background-image:url(../img/cta_2x.png);
 	background-size:96px 26px;
-}
-
-#new_bg_2x {
-	left:614px;
-	top:4px;
-	width:114px;
-	height:86px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:114px 86px;
 }
