@@ -68,12 +68,12 @@ function animate(){
     .to(ellipse2, .5, {scale:1,opacity:1, ease:Expo.easeOut},"ell_grow+=.2")
 
     // connect ellipse
-    .to(ellipse1, 0.5, {x:7, y:13, scale:.9, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse2, 0.5, {x:-14, y:-2, scale:1, ease:Expo.easeIn},"conn-=.2")
-    .to(ellipse3, 0.5, {x:2, y:-18, scale:.8, ease:Expo.easeIn},"conn-=.2")
-    // ellipse disappears and standiong logo appears
-    .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
-    .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
+    // .to(ellipse1, 0.5, {x:7, y:13, scale:.9, ease:Expo.easeIn},"conn-=.2")
+    // .to(ellipse2, 0.5, {x:-14, y:-2, scale:1, ease:Expo.easeIn},"conn-=.2")
+    // .to(ellipse3, 0.5, {x:2, y:-18, scale:.8, ease:Expo.easeIn},"conn-=.2")
+    // // ellipse disappears and standiong logo appears
+    // .to(ells, 0.1, {opacity:0,ease:Power4.easeOut},)
+    // .from(ell_endAnim_2x, .2, {opacity:0,ease:Power4.easeOut},"-=.1")
 
     // copy animations
     .from(bg_2x, 1, {x:50, opacity:0,ease:Expo.easeIn},"bg-=.3")
