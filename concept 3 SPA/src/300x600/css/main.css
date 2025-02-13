@@ -1,0 +1,109 @@
+body { margin:0px 0px; padding:0px; } 
+
+* { 
+	box-sizing: Border-box;
+	-webkit-backface-visibility: hidden;
+  	-webkit-perspective: 1000px; 
+	-ms-overflow-style: hidden;
+}  
+
+#container{
+	background-color:#ec0c21;
+	position:absolute;
+	overflow:hidden;
+	border: 1px solid black;
+} 
+
+.sprite {
+	position:absolute;
+	background-repeat:no-repeat;
+}
+
+#bg_2x {
+	left:65px;
+	top:278px;
+	width:235px;
+	height:256px;
+	background-image:url(../img/bg_2x.png);
+	background-size:235px 256px;
+}
+
+.ellipses {
+    border-radius: 50%;
+    background-color: white;
+}
+
+.ellipse1 {
+    left: 27px;
+    top: 16px;
+    width: 12px;
+    height: 9px;
+}
+
+.ellipse2 {
+    left: 42px;
+    top: 28px;
+    width: 11px;
+    height: 8px;
+}
+
+.ellipse3 {
+    left: 18px;
+    top: 36px;
+    width: 15px;
+    height: 11px;
+}
+
+#ell_endAnim_2x {
+	left:25px;
+	top:25px;
+	width:26px;
+	height:17px;
+	background-image:url(../img/ell_endAnim_2x.png);
+	background-size:26px 17px;
+}
+
+#logo_c_2x {
+	left:53px;
+	top:25px;
+	width:95px;
+	height:17px;
+	background-image:url(../img/logo_c_2x.png);
+	background-size:95px 17px;
+}
+
+#c2_2x {
+	left:25px;
+	top:94px;
+	width:233px;
+	height:85px;
+	background-image:url(../img/c2_2x.png);
+	background-size:233px 85px;
+}
+
+#c4_2x {
+	left:25px;
+	top:94px;
+	width:220px;
+	height:78px;
+	background-image:url(../img/c4_2x.png);
+	background-size:220px 78px;
+}
+
+#c_2x {
+	left:25px;
+	top:94px;
+	width:180px;
+	height:81px;
+	background-image:url(../img/c_2x.png);
+	background-size:180px 81px;
+}
+
+#cta_2x {
+	left:25px;
+	top:197px;
+	width:96px;
+	height:26px;
+	background-image:url(../img/cta_2x.png);
+	background-size:96px 26px;
+}
