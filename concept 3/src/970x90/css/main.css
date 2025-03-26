@@ -74,7 +74,7 @@ body { margin:0px 0px; padding:0px; }
 
 #c2_2x {
 	left:224px;
-	top:35px;
+	top:39px;
 	width:310px;
 	height:20px;
 	background-image:url(../img/c2_2x.png);
@@ -83,16 +83,16 @@ body { margin:0px 0px; padding:0px; }
 
 #c4_2x {
 	left:225px;
-	top:35px;
-	width:404px;
-	height:20px;
+	top:38px;
+	width:402px;
+	height:21px;
 	background-image:url(../img/c4_2x.png);
-	background-size:404px 20px;
+	background-size:402px 21px;
 }
 
 #c_2x {
 	left:226px;
-	top:35px;
+	top:39px;
 	width:344px;
 	height:20px;
 	background-image:url(../img/c_2x.png);
