@@ -107,12 +107,3 @@ body { margin:0px 0px; padding:0px; }
 	background-image:url(../img/cta_2x.png);
 	background-size:96px 26px;
 }
-
-#new_bg_2x {
-	left:140px;
-	top:111px;
-	width:160px;
-	height:139px;
-	background-image:url(../img/new_bg_2x.png);
-	background-size:160px 139px;
-}
